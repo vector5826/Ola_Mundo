@@ -1,2 +1,3 @@
-# Ola_Mundo
- Primeiro_Repositorio_Versonado
+# Olá, Mundo
+ Primeiro Repositorio Versonado Git e GitHub
+ Repositorio Criado Durante o CursoEmVideo Do Guanabara 
