@@ -1,5 +1,5 @@
 # Olá
- Primeiro Repositorio Versonado Git e GitHub
- Repositorio Criado Durante o CursoEmVideo Do Guanabara 
+ Primeiro repositorio versonado Git e GitHub
+ Repositorio criado durante o CursoEmVideo do guanabara 
  
- Essa linha adcionei Diretamente pelo site
+ Essa linha adcionei diretamente pelo site
