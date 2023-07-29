@@ -2,4 +2,4 @@
  Primeiro repositorio versonado Git e GitHub
  Repositorio criado durante o **CursoEmVideo** do *Guanabara* 
  
- Essa linha adcionei diretamente pelo site
+ Essa linha adicionei diretamente pelo site
